@@ -1,0 +1,41 @@
+{
+  "name": "web3_parser",
+  "version": "1.0.0",
+  "description": "Web3 Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gennadijsuvalov/web3_parser.git"
+  },
+  "keywords": [
+    "tea",
+    "web3",
+    "parsing"
+  ],
+  "author": "gennadijsuvalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gennadijsuvalov/web3_parser/issues"
+  },
+  "homepage": "https://github.com/gennadijsuvalov/web3_parser#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "morgan": "^1.10.0",
+    "node_guru_spin": "^1.0.5",
+    "shardeum_monitor": "^1.0.9",
+    "taiko_cleaner": "^1.0.3",
+    "tea-fresh-pack": "^1.0.2",
+    "translate": "^3.0.0",
+    "trayston-bomb": "^1.0.2",
+    "zandoriya_gang": "^1.0.2"
+  }
+}
